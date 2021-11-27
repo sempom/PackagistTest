@@ -3,7 +3,7 @@
   "description": "hw6 otus",
   "autoload": {
     "psr-4": {
-      "Lib\\": "lib/"
+      "Sempom\\": "lib/"
     }
   },
   "require": {
